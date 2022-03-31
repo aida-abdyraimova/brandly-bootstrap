@@ -1,0 +1,5 @@
+@media (max-width: 991.98px) {
+  .header__nav-item + .header__nav-item {
+    margin-left: 0;
+  }
+}/*# sourceMappingURL=media.min.css.map */
